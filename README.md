@@ -1,3 +1,4 @@
+Requirements Pygame
 # Sudoki
 
 ###Sudoki is Sudoku, a game where you guess up numbers where the same number does not appear twice in a row or column it first appeared.
